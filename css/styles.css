@@ -1,0 +1,65 @@
+#img-elephant {
+  float: right;
+  height: 313px;
+  margin-right: 62px;
+  margin-top: 60px;
+}
+
+marquee {
+  margin-left: 85px;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+
+.jumbotron h1 {
+  font-weight: 100;
+  color: #2b2b2b;
+  font-family: sans-serif;
+  font-size: 44pt;
+  margin-top: 25px;
+}
+
+.love {
+  color: #be50ef;
+}
+
+#btn-monkey {
+  padding-left: 12px;
+  text-align: center;
+  margin-left: 120px;
+  margin-right: 7.5px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: black;
+  width: 184px;
+  border: 3px dotted #2b2b2b;
+  border-radius: 6px;
+}
+
+#btn-mouse {
+  margin-right: 7.5px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: black;
+  width: 184px;
+  text-align: center;
+  border: 3px dotted #2b2b2b;
+  border-radius: 6px;
+}
+
+#btn-kitty {
+
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: black;
+  width: 184px;
+  text-align: center;
+  border: 3px dotted #2b2b2b;
+  border-radius: 6px;
+}
