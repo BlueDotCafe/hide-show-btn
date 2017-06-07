@@ -1,4 +1,5 @@
 $(document).ready(function() {
-  $("#btn-kitty").click(function() {
-    $("#kitty-id").addClass(show);
+  $("button#btn-monkey").click(function() {
+    $("#monkey-id").toggle();
   });
+});

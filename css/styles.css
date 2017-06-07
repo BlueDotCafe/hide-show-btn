@@ -89,14 +89,6 @@ p {
   margin: auto;
 }
 
-#kitty-id {
-  display: none;
-}
-
-#mouse-id {
-  display: none;
-}
-
-#monkey-id {
+.hidden {
   display: none;
 }
