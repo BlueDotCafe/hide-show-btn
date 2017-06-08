@@ -88,7 +88,6 @@ p {
   display: block;
   margin: auto;
 }
-
-.hidden {
-  display: none;
-}
+ #monkey-id, #mouse-id, #kitty-id {
+   display: none;
+ }
